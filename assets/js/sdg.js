@@ -1378,7 +1378,7 @@ function getBaseDataset() {
     pointBackgroundColor: '#FFFFFF',
     pointHoverBorderWidth: 1,
     tension: 0,
-    spanGaps: true
+    spanGaps: false
   });
 }
 
@@ -2003,7 +2003,7 @@ var indicatorView = function (model, options) {
 
   $(this._rootElement).on('click', '#fields label', function (e) {
 
-    if(!$(this).closest('.variable-selector').hasClass('disallowed')) {
+    if(!$(this).closest('.variable-options').hasClass('disallowed')) {
       $(this).find(':checkbox').trigger('click');
     }
 
