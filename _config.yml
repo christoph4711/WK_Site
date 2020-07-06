@@ -46,7 +46,7 @@ email_contacts:
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
+  name: Deutsche
   adjective: Australian
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
