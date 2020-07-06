@@ -39,9 +39,9 @@ analytics:
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: christoph@biester.info
+  suggestions: christoph@biester.info
+  functional: christoph@biester.info
 
 # International Support
 # Eg name: Australia and adjective: Australian
