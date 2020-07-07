@@ -122,7 +122,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/WK_Site/assets/css/style.css?v=20200707101845">
+        <link rel="stylesheet" href="/WK_Site/assets/css/style.css?v=20200707140752">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -260,7 +260,7 @@ var translations = {
       <div class="col-xs-8 col-md-9 col-lg-10 indicator-details">
         <div>
           <h1>Indikator 12.3.1</h1>
-          <p class="lead-copy">Index zu globalen Nahrungsmittelverlusten</p>
+          <p class="lead-copy"></p>
         </div>
       </div>
     </div>
@@ -294,14 +294,14 @@ var translations = {
   data-indicatorid='indicator_12-3-1'
   data-id="12-3-1"
   data-country=""
-  data-charttitle="Index zu globalen Nahrungsmittelverlusten"
+  data-charttitle=""
   data-charttitles="null"
   data-measurementunit=""
   data-datasource=""
   data-copyright=""
   data-geographicalarea=""
   data-footnote=""
-  data-showdata="false"
+  data-showdata="true"
   data-graphtype="line"
   data-geocoderegex=""
   data-showmap=""
@@ -310,7 +310,188 @@ var translations = {
   data-stackeddisaggregation=""
 >
   
-  <div id="indicator-main" class="indicator-main col-md-12">
+  <div id="indicator-sidebar" class="indicator-sidebar col-md-3">
+    <div id="units"></div>
+<div id="toolbar">
+  <span id="series-help">
+    <h4>Disaggregationsdimensionen</h4>
+    <p>Wählen Sie Disaggregationsdimensionen aus, damit die verfügbaren Disaggregationskategorien angezeigt werden. Manche werden erst angezeigt, sobald eine Überkategorie ausgewählt wird.</p>
+  </span>
+  <p id="legend-help">Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.</p>
+  <div id="fields">
+    <p class="async-loading" data-img="/WK_Site/assets/img/loading-small.gif"></p>
+  </div>
+</div>
+
+  </div>
+  <div id="indicator-main" class="indicator-main col-md-9">
+    
+
+
+<div id="headlineTable">
+
+  <div id="datatables">
+
+    <a href="https://WohnungNDS.github.io/WK_Data/de/headline/12-3-1.csv" class="btn btn-primary btn-download" download="indicator_12-3-1.csv" tabindex="0" role="button">Speichern der Headline im CSV-Format</a>
+
+    <a href="https://WohnungNDS.github.io/WK_Data/de/data/12-3-1.csv" class="btn btn-primary btn-download" style='float:left;margin-right:1em' download='indicator_12-3-1.csv' tabindex='0' role='button'>Daten im CSV-Format speichern</a>
+
+    <h3>Headline data</h3>
+    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
+      <caption></caption>
+      <thead>
+        
+        
+        <th scope="col">Year</th>
+        
+        
+        
+        <th scope="col" class="table-value">Value</th>
+        
+        
+      </thead>
+      <tbody>
+        
+        <tr>
+          
+          
+          <td>2015</td>
+          
+          
+          
+          <td class="table-value">2</td>
+          
+          
+        </tr>
+        
+        <tr>
+          
+          
+          <td>2016</td>
+          
+          
+          
+          <td class="table-value">2</td>
+          
+          
+        </tr>
+        
+      </tbody>
+    </table>
+  </div>
+
+  <div id="datatableFooter">
+    
+    
+    
+    
+  </div>
+
+</div>
+
+
+<section>
+
+  <p class="async-loading" data-img="/WK_Site/assets/img/loading-small.gif"></p>
+
+  <div class="async-loaded spacer medium" style="display:none;">
+
+    <ul class="nav nav-tabs data-view" role="tablist">
+  <li role="presentation" class="nav-item active">
+    <a class="nav-link" data-toggle="tab" href="#chartview" aria-controls="chartview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Chart tab"
+>Grafik</a>
+  </li>
+  <li role="presentation" class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="#tableview" aria-controls="tableview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Table tab"
+>Tabelle</a>
+  </li>
+  <li role="presentation" class="nav-item map" style="display:none">
+    <a data-no-disagg="true" class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Map tab"
+>Karte</a>
+  </li></ul>
+
+    <div class="tab-content data-view">
+  <div role="tabpanel" class="tab-pane active" id="chartview">
+    
+
+    <div id="dataset-size-warning" style="display:none">
+      <i class="fa fa-bolt"></i> Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+    </div>
+
+    
+    <div id="selectionsChart">
+      <div id="chart-canvas">
+        <h3 class="chart-title">
+          
+            
+          
+        </h3>
+        <div id="chart" class="plot-container">
+          
+<canvas></canvas>
+<script>
+// Add a chart alteration to support the chart_graph_limits metadata field.
+opensdg.chartConfigAlter(function(config, info) {
+  if (info.graphLimits) {
+    var limit = _.findWhere(info.graphLimits, { unit: info.selectedUnit }) || info.graphLimits[0];
+    var overrides = {
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              min: limit.minimum,
+              max: limit.maximum,
+            }
+          }]
+        }
+      }
+    }
+    // Add these overrides onto the normal config.
+    $.extend(true, config, overrides);
+  }
+});
+</script>
+
+
+        </div>
+        <div id="plotLegend"></div>
+      </div>
+      <button id="btnSave" title="Grafik als Bild herunterladen" class='btn btn-primary btn-download'>
+        Grafik herunterladen
+      </button>
+    </div>
+    <div id="chartSelectionDownload"></div>
+
+
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="tableview">
+    <div id="selectionsTable"></div>
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="mapview" class="map">
+    <div id="map">
+  <img src="/WK_Site/assets/img/loading.gif" alt="Karte wird geladen" />
+</div>
+
+  </div>
+  
+</div>
+
+
+  </div>
+
+</section>
+
   
   <ul class="nav nav-tabs spacer medium" role="tablist">
 
@@ -536,10 +717,6 @@ data-event-label="Change to Sources tab"
             
 
             
-              <a href="https://github.com/WohnungNDS/WK_Data/commit/d0f154acda2f071629c7906f592816adae164bed" target="_blank">
-                2020-07-06: see changes on GitHub <span class="visuallyhidden">in neuem Fenster öffnen</span>
-              </a>
-            
 
           
         </td>
@@ -562,10 +739,6 @@ data-event-label="Change to Sources tab"
             
             
 
-            
-              <a href="https://github.com/WohnungNDS/WK_Data/commit/d0f154acda2f071629c7906f592816adae164bed" target="_blank">
-                2020-07-06: see changes on GitHub <span class="visuallyhidden">in neuem Fenster öffnen</span>
-              </a>
             
 
           
@@ -682,7 +855,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Indikatorenbezeichnung </th>
         <td>
           
-            <p>Index zu globalen Nahrungsmittelverlusten</p>
+            
 
           
         </td>
@@ -696,7 +869,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Indikatorennummerierung </th>
         <td>
           
-            <p>12.3.1</p>
+            
 
           
         </td>
@@ -710,7 +883,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">Unterziel </th>
         <td>
           
-            <p>Bis 2030 die weltweite Nahrungsmittelverschwendung pro Kopf auf Einzelhandels und Verbraucherebene halbieren und die entlang der Produktions- und Lieferkette entstehenden Nahrungsmittelverluste einschließlich Nachernteverlusten verringern</p>
+            
 
           
         </td>
@@ -752,7 +925,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">VN Tier Klassifikation </th>
         <td>
           
-            <p>3</p>
+            
 
           
         </td>
@@ -766,7 +939,7 @@ data-event-label="Change to Sources tab"
         <th scope="row">VN Custodian Agency </th>
         <td>
           
-            <p>FAO, UNEP</p>
+            
 
           
         </td>
@@ -785,10 +958,6 @@ data-event-label="Change to Sources tab"
             
             
 
-            
-              <a href="http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-12.pdf" target="_blank">
-                United Nations Sustainable Development Goals Metadata (pdf 782kB) <span class="visuallyhidden">in neuem Fenster öffnen</span>
-              </a>
             
 
           
@@ -993,7 +1162,7 @@ data-event-label="Change to Sources tab"
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
-<script src='/WK_Site/assets/js/sdg.js?v=20200707101845'></script><script>
+<script src='/WK_Site/assets/js/sdg.js?v=20200707140752'></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
