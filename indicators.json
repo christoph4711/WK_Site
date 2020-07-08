@@ -34,7 +34,7 @@
   {
     "goal": {
       "id": "2",
-      "title": "Eigenheime in Niedersachsen und eine nachhaltige Landwirtschaft fördern",
+      "title": "Eigenheime in Niedersachsen",
       "indicators": [
         
         {
@@ -66,7 +66,7 @@
   {
     "goal": {
       "id": "3",
-      "title": "",
+      "title": "Wohnheime und andere Unterkünfte in Niedersachsen",
       "indicators": [
         
         {
@@ -283,54 +283,6 @@
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-2-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-2-2",
-          "title": "Beschäftigung im Verarbeitenden Gewerbe als Anteil an der Beschäftigung insgesamt",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-2-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-3-1",
-          "title": "Anteil der kleiner Unternehmen an der gesamten Wertschöpfung der Industrie",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-3-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-3-2",
-          "title": "Anteil kleiner Unternehmen mit einem Kredit oder einem Kreditrahmen",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-3-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-4-1",
-          "title": "CO2-Emissionen pro Wertschöpfungseinheit",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-4-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-5-1",
-          "title": "Ausgaben für Forschung und Entwicklung als Anteil am BIP",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-5-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "9-5-2",
-          "title": "Wissenschaftler (in Vollzeit-Äquivalenten) je eine Million Einwohner",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/9-5-2",
           "status": "notstarted"
         },
         {
