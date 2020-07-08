@@ -2,12 +2,12 @@
   {
     "goal": {
       "id": "1",
-      "title": "Mietwohnungen in Niedersachsen",
+      "title": "Gebäude in Niedersachsen",
       "indicators": [
         
         {
           "id": "1-1-1",
-          "title": "Anteil der Bevölkerung, die unter der internationalen Armutsgrenze lebt, nach Geschlecht, Alter, Erwerbsstatus  und geographischer Lage (urban/rural)",
+          "title": "Wohngebäude in Niedersachsen",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/1-1-1",
@@ -15,7 +15,7 @@
         },
         {
           "id": "1-2-1",
-          "title": "Anteil der Bevölkerung, die unter der nationalen Armutsgrenze lebt, nach Geschlecht und Alter",
+          "title": "Wohngebäude nach Anzahl der Zimmer und Wohnfläche",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/1-2-1",
@@ -23,7 +23,7 @@
         },
         {
           "id": "1-2-2",
-          "title": "Anteil der Männer, Frauen und Kinder jeden Alters, die in Armut in all ihren Dimensionen gemäß nationaler Definitionen leben",
+          "title": "Nutzfläche der (Wohn-)Gebäude",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/1-2-2",
@@ -235,7 +235,7 @@
           "description": "",
           "keywords": "",
           "href": "/WK_Site/8-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "8-2-1",
@@ -290,7 +290,7 @@
   {
     "goal": {
       "id": "10",
-      "title": "Gebäude in Niedersachsen",
+      "title": "Mitwohnungen in Niedersachsen",
       "indicators": [
         
         {
