@@ -128,13 +128,35 @@ exclude:
 # Optionally uncomment and update the settings below to control the mapping functionality.
 # These are only a few of the possible settings. For more details, see:
 # https://open-sdg.readthedocs.io/en/latest/maps/
-#map_options:
-#  minZoom: 5
-#  tileURL: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-#  tileOptions:
+map_options:
+  minZoom: 5
+  #tileURL: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+  tileURL: https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}
+  tileOptions:
+  
+id: mapbox.light
+    accessToken: sk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1eXJsbGkwODc0M2NtcjZ1MjJ3cGVoIn0.780lO2VF4H_uYVlG-XdYSA #pk.eyJ1IjoiYnJvY2tmYW5uaW5nMSIsImEiOiJjaXplbmgzczgyMmRtMnZxbzlmbGJmdW9pIn0.LU-BYMX69uu3eGgk0Imibg
+    attribution: <a href="https://www.mapbox.com">Mapbox</a> | <a href="http://www.bkg.bund.de">© GeoBasis-DE / BKG</a>
+minZoom: 3 
+  
 #    attribution: 'My map attribution'
 ##map_layers:
 #  - min_zoom: 5
 #    max_zoom: 10
 #    subfolder: my-geojson-subfolder
 #    label: My map layer label (can be a translation key)
+
+map_layers:
+  - min_zoom: 3
+    max_zoom: 10   
+    serviceUrl: https://wohnungnds.github.io/WK_Data/assets/maps/NI_Kurz_diss.geojson
+    #serviceUrl: https://christoph4711.github.io/open-sdg-site-starter/assets/maps/NI_GJ.geojson
+    #serviceUrl: https://kazstat.github.io/sdg-site-kazstat/assets/js/kazakhstan-regions.geojson
+    nameProperty: GEN
+    #nameProperty: kzName
+    idProperty: AGS
+    #idProperty: kzCode
+staticBorders: false
+
+
+
