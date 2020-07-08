@@ -550,36 +550,4 @@
           "status": "notstarted"
         }]
     }
-  },
-  {
-    "goal": {
-      "id": "16",
-      "title": "Friedliche und inklusive Gesellschaften für eine nachhaltige Entwicklung fördern, allen Menschen Zugang zur Justiz ermöglichen und leistungsfähige, rechenschaftspflichtige und inklusive Institutionen auf allen Ebenen aufbauen",
-      "indicators": [
-        
-        {
-          "id": "16-1-1",
-          "title": "Anzahl der Opfern vorsätzlicher Tötung je 100.000 Einwohner, nach Geschlecht und Alter",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/16-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-1-2",
-          "title": "Konfliktbedingte  Todesfälle je 100.000 Einwohner, nach Geschlecht, Alter und Ursache",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/16-1-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "16-1-3",
-          "title": "Anteil der Bevölkerung, die in den vergangenen 12 Monaten (a) körperlicher Gewalt, (b) psychischer Gewalt und (c) sexueller Gewalt ausgesetzt war",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/16-1-3",
-          "status": "notstarted"
-        }]
-    }
   }]
