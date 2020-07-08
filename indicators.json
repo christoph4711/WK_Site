@@ -582,36 +582,4 @@
           "status": "notstarted"
         }]
     }
-  },
-  {
-    "goal": {
-      "id": "17",
-      "title": "Umsetzungsmittel stärken und die Globale Partnerschaft für nachhaltige Entwicklung mit neuem Leben erfüllen",
-      "indicators": [
-        
-        {
-          "id": "17-1-1",
-          "title": "Gesamte Staatseinnahmen als Anteil am BIP, nach Quelle",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/17-1-1",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-1-2",
-          "title": "Anteil des Haushaltsbudgets, das durch inländische Steuern finanziert wird",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/17-1-2",
-          "status": "notstarted"
-        },
-        {
-          "id": "17-2-1",
-          "title": "Öffentliche Nettoentwicklungsausgaben, insgesamt und an am wenigsten entwickelte Länder, als Anteil am Bruttonationaleinkommen (BNE) der Geberländer des Ausschusses für Entwicklungshilfe der Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD)",
-          "description": "",
-          "keywords": "",
-          "href": "/WK_Site/17-2-1",
-          "status": "notstarted"
-        }]
-    }
   }]
