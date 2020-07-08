@@ -267,7 +267,7 @@
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "9-1-2",
@@ -290,7 +290,7 @@
   {
     "goal": {
       "id": "10",
-      "title": "Ungleichheit in und zwischen Ländern verringern",
+      "title": "Gebäude in Niedersachsen",
       "indicators": [
         
         {
