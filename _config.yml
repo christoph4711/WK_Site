@@ -139,7 +139,7 @@ map_options:
  
 
 map_layers:
-
+-
 # The subfolder under 'geojson' in the data repository holding the GeoJSON files:
     subfolder: maps
     # The label to use in the "Download GeoJSON" button:
