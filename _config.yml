@@ -1,4 +1,4 @@
-## Jekyll configuration for Open SDG platform
+### Jekyll configuration for Open SDG platform
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
 # Recommended: set this to a particular "release" of Open SDG. For example:
@@ -135,11 +135,11 @@ map_options:
   minZoom: 5
   maxZoom: 10
   tileURL: https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}
-  tileOptions:  
+  tileOptions:
     id: mapbox.light
     accessToken: pk.eyJ1IjoiY2hyaXN0b3BoNDcxMSIsImEiOiJjanp1cjdpbzQwMTFwM29tdzJ2ZTh3Ymo4In0.C7_7e3AFcMaF_QBg6MaT0Q
     attribution: <a href="https://www.mapbox.com">Mapbox</a> | <a href="http://www.bkg.bund.de">© GeoBasis-DE / BKG</a>
- 
+
 
 map_layers:
 -
@@ -153,8 +153,3 @@ map_layers:
     max_zoom: 20
     # Whether or not these boundaries should display statically on lower layers.
     staticBorders: false
-
- 
-
-
-
