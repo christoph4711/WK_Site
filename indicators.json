@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-2",
-          "title": "Veränderung der Anzahl der Wohnungen in Wohn- und Nichtwohngebäuden",
+          "title": "Veränderung der Anzahl der Wohnungen in Wohn- und Nichtwohngebäuden (Neubau)",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/1-1-2",
@@ -55,7 +55,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Prävalenz von Unterernährung",
+          "title": "Eigenheime 1",
           "description": "Definition hier einfügen",
           "keywords": "",
           "href": "/WK_Site/2-1-1",
@@ -63,7 +63,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Prävalenz mittlerer oder schwerer Ernährungsunsicherheit in der Bevölkerung, basierend auf der Erfahrungsskala für Ernährungsunsicherheit (FIES)",
+          "title": "Eigenheime 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/2-1-2",
@@ -71,7 +71,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Prävalenz von Kleinwuchs (Körpergröße zum Alter < -2 Standardabweichung vom Median des Wachstumsstandards für Kinder der Weltgesundheitsorganisation (WHO)) bei Kindern unter 5 Jahren",
+          "title": "Eigenheime 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/2-2-1",
@@ -87,7 +87,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Müttersterblichkeitsrate",
+          "title": "Wohnheime 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-1-1",
@@ -95,7 +95,7 @@
         },
         {
           "id": "3-1-2",
-          "title": "Anteil der Geburten unter der Aufsicht von qualifiziertem Gesundheitspersonal",
+          "title": "Wohnheime 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-1-2",
@@ -103,7 +103,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Sterblichkeitsrate von Kindern unter 5 Jahren",
+          "title": "Wohnheime 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-2-1",
@@ -119,7 +119,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Anteil der Kinder und Jugendlichen, die (a) in Klasse 2/3 (b) am Ende der Grundschule und (c) am Ende der Sekundarstufe I ein Mindestleistungsniveau in (i) Lesen und (ii) Mathematik erreichen, nach Geschlecht",
+          "title": "Mieten 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-1-1",
@@ -127,7 +127,7 @@
         },
         {
           "id": "4-2-1",
-          "title": "Anteil der Kinder unter 5 Jahren mit einer altersgemäßen  Entwicklung hinsichtlich Gesundheit, Lernen und psycho-sozialem Wohlbefinden, nach Geschlecht",
+          "title": "Mieten 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-2-1",
@@ -135,7 +135,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Teilnahmequote an frühkindlicher Bildung (ein Jahr vor dem offiziellen Einschulungsalter), nach Geschlecht",
+          "title": "Mieten 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-2-2",
@@ -151,7 +151,7 @@
         
         {
           "id": "5-1-1",
-          "title": "Existenz gesetzlicher Rahmenbedingungen, die Gleichstellung und Nicht-Diskriminierung aufgrund des Geschlechts fördern, durchsetzen und überwachen",
+          "title": "Bauvorhaben 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-1-1",
@@ -159,7 +159,7 @@
         },
         {
           "id": "5-2-1",
-          "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sich in ihrer jetzigen oder früheren Partnerschaft physischer, sexueller oder psychischer Gewalt durch ihren aktuellen oder früheren Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Art der Gewalt und Alter",
+          "title": "Bauvorhaben 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-2-1",
@@ -167,7 +167,7 @@
         },
         {
           "id": "5-2-2",
-          "title": "Anteil der Frauen und Mädchen im Alter von 15 Jahren und älter, die sexueller Gewalt durch andere Personen als einem Intimpartner in den vergangenen 12 Monaten ausgesetzt waren, nach Alter und Ort des Geschehens",
+          "title": "Bauvorhaben 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-2-2",
@@ -183,7 +183,7 @@
         
         {
           "id": "6-1-1",
-          "title": "Anteil der Bevölkerung mit Zugang zu einer sicheren Trinkwasserversorgung",
+          "title": "Bauvorhaben 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-1-1",
@@ -191,7 +191,7 @@
         },
         {
           "id": "6-2-1",
-          "title": "Anteil der Bevölkerung mit (a) Zugang zu sicherer Sanitärversorgung und (b) einem Handwaschbecken mit Seife und Wasser",
+          "title": "Bauvorhaben 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-2-1",
@@ -199,7 +199,7 @@
         },
         {
           "id": "6-3-1",
-          "title": "Anteil des sicher behandelten Abwassers",
+          "title": "Bauvorhaben 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-3-1",
@@ -215,7 +215,7 @@
         
         {
           "id": "7-1-1",
-          "title": "Anteil der Bevölkerung mit Zugang zu Elektrizität",
+          "title": "Baukosten 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/7-1-1",
@@ -223,7 +223,7 @@
         },
         {
           "id": "7-1-2",
-          "title": "Anteil der Bevölkerung mit überwiegender Abhängigkeit von sauberen Energieträgern und Technologien",
+          "title": "Baukosten 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/7-1-2",
@@ -231,7 +231,7 @@
         },
         {
           "id": "7-2-1",
-          "title": "Anteil der erneuerbaren Energien am gesamten Endenergieverbrauch",
+          "title": "Baukosten 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/7-2-1",
@@ -247,7 +247,7 @@
         
         {
           "id": "8-1-1",
-          "title": "Veränderung der Grundstückspreise in Niedersachsen 2010/2018 in Prozent",
+          "title": "Grundstücke 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/8-1-1",
@@ -255,7 +255,7 @@
         },
         {
           "id": "8-2-1",
-          "title": "Jährliche Wachstumsrate des realen BIP je Beschäftigten",
+          "title": "Grundstücke 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/8-2-1",
@@ -263,7 +263,7 @@
         },
         {
           "id": "8-3-1",
-          "title": "Anteil der informellen Beschäftigung an allen Beschäftigungsverhältnissen außerhalb der Landwirtschaft, nach Geschlecht",
+          "title": "Grundstücke 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/8-3-1",
@@ -279,7 +279,7 @@
         
         {
           "id": "9-1-1",
-          "title": "Anteil der ländlichen Bevölkerung, die im Umkreis von 2 km entfernt an einer ganzjährig befahrbaren Straße lebt",
+          "title": "Steuern und Abgaben 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-1-1",
@@ -287,7 +287,7 @@
         },
         {
           "id": "9-1-2",
-          "title": "Passagiere und Frachtvolumen, nach der Art des Transports",
+          "title": "Steuern und Abgaben 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-1-2",
@@ -295,7 +295,7 @@
         },
         {
           "id": "9-2-1",
-          "title": "Wertschöpfung des Verarbeitenden Gewerbes als Anteil am BIP und pro Kopf",
+          "title": "Steuern und Abgaben 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-2-1",
@@ -311,7 +311,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Wachstumsraten der Haushaltsausgaben oder -einkommen pro Kopf der unteren 40 Prozent der Bevölkerung und der Gesamtbevölkerung",
+          "title": "Mietwohnungen 1",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-1-1",
@@ -319,7 +319,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Anteil der Bevölkerung, die mit weniger als 50% des Medianeinkommens leben, nach Geschlecht, Alter und Menschen mit Behinderung",
+          "title": "Mietwohnungen 2",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-2-1",
@@ -327,7 +327,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Anteil der Bevölkerung, die angibt sich in den vergangenen 12 Monaten persönlich diskriminiert oder belästigt gefühlt zu haben basierend auf einem Diskriminierungsgrund, der nach internationalem Menschenrechtsgesetzen verboten ist",
+          "title": "Miwtwohnungen 3",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-3-1",
@@ -343,7 +343,7 @@
         
         {
           "id": "11-1-1",
-          "title": "Anteil der urbanen Bevölkerung, die in Slums, informellen Siedlungen oder unzureichenden Behausungen lebt",
+          "title": "Tabelle des Monats",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/11-1-1",
@@ -351,7 +351,7 @@
         },
         {
           "id": "11-2-1",
-          "title": "Anteil der Bevölkerung, der einen angemessenen Zugang zu öffentlichen Verkehrsmitteln hat, nach Geschlecht, Alter und Menschen mit Behinderung",
+          "title": "global_indicators.11-2-1-title",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/11-2-1",
@@ -359,7 +359,7 @@
         },
         {
           "id": "11-3-1",
-          "title": "Verhältnis der Flächennutzungs- zur Bevölkerungswachstumsrate",
+          "title": "global_indicators.11-3-1-title",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/11-3-1",
