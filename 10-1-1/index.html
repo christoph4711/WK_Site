@@ -122,7 +122,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/WK_Site/assets/css/style.css?v=20201023103805">
+        <link rel="stylesheet" href="/WK_Site/assets/css/style.css?v=20201023105719">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -136,7 +136,7 @@ var translations = {
 <body class="language-de layout-indicator">
 <!-- <div class="container"> -->
 
-<script>translations['header'] = {"alpha":"Alpha-Version","default_contrast":"Standard kontrast","disable_high_contrast":"Hoher Kontrast deaktivieren","disclaimer":"Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.","enable_high_contrast":"Aktivieren Sie hohen Kontrast","high_contrast":"Hoher kontrast","skip_link":" Zum Hauptinhalt springen","tag_line":""};</script>
+<script>translations['header'] = {"alpha":"Alpha-Version","default_contrast":"Standard kontrast","disable_high_contrast":"Hoher Kontrast deaktivieren","disclaimer":"Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre Kommentare.","enable_high_contrast":"Aktivieren Sie hohen Kontrast","high_contrast":"Hoher kontrast","skip_link":" Zum Hauptinhalt springen","tag_line":""};</script>
 
 <a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0"> Zum Hauptinhalt springen</a>
 <div id="disclaimer">
@@ -144,7 +144,7 @@ var translations = {
   <div class="disclaimer-alert" role="alert">
     <strong class="phase-tag">Alpha-Version</strong>
     
-    Diese Seite befindet sich im Entwicklungsstadium.Wir freuen uns über Ihre Kommentare.
+    Diese Seite befindet sich im Entwicklungsstadium. Wir freuen uns über Ihre Kommentare.
   </div>
 </div>
 
@@ -254,7 +254,7 @@ var translations = {
     <div class="row">
       <div class="col-xs-4 col-md-3 col-lg-2 goal-icon">
         <a href="/WK_Site/10" title="Zeigt die Indikatorenliste zum SDG-Ziel an.">
-          <img src="https://wohnungnds.github.io/WK_Site/assets/img//de/10.png" alt="Mitwohnungen - Themenbereich 10" />
+          <img src="https://wohnungnds.github.io/WK_Site/assets/img//de/10.png" alt="Mietwohnungen - Themenbereich 10" />
         </a>
       </div>
       <div class="col-xs-8 col-md-9 col-lg-10 indicator-details">
@@ -270,7 +270,7 @@ var translations = {
 <div id="main-content" class="container goal-10">
   <ol class="breadcrumb">
   <li><a href="/WK_Site/">Home</a></li>
-  <li><a href="/WK_Site/10" title="Mitwohnungen in Niedersachsen">Themenbereich 10</a></li>
+  <li><a href="/WK_Site/10" title="Mietwohnungen in Niedersachsen">Themenbereich 10</a></li>
   <li class="active">Indikator 10.1.1</li>
 </ol>
 
@@ -301,7 +301,7 @@ var translations = {
   data-copyright=""
   data-geographicalarea=""
   data-footnote=""
-  data-showdata="false"
+  data-showdata="true"
   data-graphtype="line"
   data-geocoderegex=""
   data-showmap=""
@@ -310,7 +310,156 @@ var translations = {
   data-stackeddisaggregation=""
 >
   
-  <div id="indicator-main" class="indicator-main col-md-12">
+  <div id="indicator-sidebar" class="indicator-sidebar col-md-3">
+    <div id="units"></div>
+<div id="toolbar">
+  <span id="series-help">
+    <h4>Kategorien</h4>
+    <p>Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen.</p>
+  </span>
+  <p id="legend-help">Klicken Sie auf die Legende um Zeitreihen aus der Grafik zu entfernen.</p>
+  <div id="fields">
+    <p class="async-loading" data-img="/WK_Site/assets/img/loading-small.gif"></p>
+  </div>
+</div>
+
+  </div>
+  <div id="indicator-main" class="indicator-main col-md-9">
+    
+
+
+<div id="headlineTable">
+
+  <div id="datatables">
+
+    <a href="https://WohnungNDS.github.io/WK_Data/de/headline/10-1-1.csv" class="btn btn-primary btn-download" download="indicator_10-1-1.csv" tabindex="0" role="button">Speichern der Headline im CSV-Format</a>
+
+    <a href="https://WohnungNDS.github.io/WK_Data/de/data/10-1-1.csv" class="btn btn-primary btn-download" style='float:left;margin-right:1em' download='indicator_10-1-1.csv' tabindex='0' role='button'>Daten im CSV-Format speichern</a>
+
+    <h3>Headline data</h3>
+    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
+      <caption>Mietwohnungen 1</caption>
+      <thead>
+        
+      </thead>
+      <tbody>
+        
+      </tbody>
+    </table>
+  </div>
+
+  <div id="datatableFooter">
+    
+    
+    
+    
+  </div>
+
+</div>
+
+
+<section>
+
+  <p class="async-loading" data-img="/WK_Site/assets/img/loading-small.gif"></p>
+
+  <div class="async-loaded spacer medium" style="display:none;">
+
+    <ul class="nav nav-tabs data-view" role="tablist">
+  <li role="presentation" class="nav-item active">
+    <a class="nav-link" data-toggle="tab" href="#chartview" aria-controls="chartview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Chart tab"
+>Grafik</a>
+  </li>
+  <li role="presentation" class="nav-item">
+    <a class="nav-link" data-toggle="tab" href="#tableview" aria-controls="tableview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Table tab"
+>Tabelle</a>
+  </li>
+  <li role="presentation" class="nav-item map" style="display:none">
+    <a data-no-disagg="true" class="nav-link" data-toggle="tab" href="#mapview" aria-controls="mapview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Map tab"
+>Karte</a>
+  </li></ul>
+
+    <div class="tab-content data-view">
+  <div role="tabpanel" class="tab-pane active" id="chartview">
+    
+
+    <div id="dataset-size-warning" style="display:none">
+      <i class="fa fa-bolt"></i> Zu viele Zeitreihen ausgewählt um diese in einer Grafik darzustellen. Es können nicht alle Zeitreihen dargestellt werden
+    </div>
+
+    
+    <div id="selectionsChart">
+      <div id="chart-canvas">
+        <h3 class="chart-title">
+          
+            Mietwohnungen 1
+          
+        </h3>
+        <div id="chart" class="plot-container">
+          
+<canvas></canvas>
+<script>
+// Add a chart alteration to support the chart_graph_limits metadata field.
+opensdg.chartConfigAlter(function(config, info) {
+  if (info.graphLimits) {
+    var limit = _.findWhere(info.graphLimits, { unit: info.selectedUnit }) || info.graphLimits[0];
+    var overrides = {
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              min: limit.minimum,
+              max: limit.maximum,
+            }
+          }]
+        }
+      }
+    }
+    // Add these overrides onto the normal config.
+    $.extend(true, config, overrides);
+  }
+});
+</script>
+
+
+        </div>
+        <div id="plotLegend"></div>
+      </div>
+      <button id="btnSave" title="Grafik als Bild herunterladen" class='btn btn-primary btn-download'>
+        Grafik herunterladen
+      </button>
+    </div>
+    <div id="chartSelectionDownload"></div>
+
+
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="tableview">
+    <div id="selectionsTable"></div>
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="mapview" class="map">
+    <div id="map">
+  <img src="/WK_Site/assets/img/loading.gif" alt="Karte wird geladen" />
+</div>
+
+  </div>
+  
+</div>
+
+
+  </div>
+
+</section>
+
   
   <ul class="nav nav-tabs spacer medium" role="tablist">
 
@@ -419,8 +568,8 @@ data-event-label="Change to Sources tab"
             
 
             
-              <a href="https://github.com/WohnungNDS/WK_Data/commit/d0f154acda2f071629c7906f592816adae164bed" target="_blank">
-                2020-07-06: see changes on GitHub <span class="visuallyhidden">in neuem Fenster öffnen</span>
+              <a href="https://github.com/WohnungNDS/WK_Data/commit/8f16fc4440522b1e9dac3872cd6104c323668f1b" target="_blank">
+                2020-10-23: see changes on GitHub <span class="visuallyhidden">in neuem Fenster öffnen</span>
               </a>
             
 
@@ -614,7 +763,7 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Suche';</script>
 
-<script src='/WK_Site/assets/js/sdg.js?v=20201023103805'></script><script>
+<script src='/WK_Site/assets/js/sdg.js?v=20201023105719'></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

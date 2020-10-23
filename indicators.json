@@ -306,7 +306,7 @@
   {
     "goal": {
       "id": "10",
-      "title": "Mitwohnungen in Niedersachsen",
+      "title": "Mietwohnungen in Niedersachsen",
       "indicators": [
         
         {
@@ -315,7 +315,7 @@
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-2-1",
