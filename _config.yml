@@ -32,11 +32,14 @@ create_indicators:
 create_goals:
   layout: goal-by-target
   #layout: goal
+
 create_pages: true
 
 accessible_tabs: true
 accessible_charts: true
 
+create_config_forms:
+  layout: config-builder
 
 analytics:
   ga_prod: ''
