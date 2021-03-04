@@ -55,7 +55,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Eigenheime 1",
+          "title": "Eigenheime 1 Anzahl der Eigenheime",
           "description": "Definition hier einfügen",
           "keywords": "",
           "href": "/WK_Site/2-1-1",
@@ -63,7 +63,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Eigenheime 2",
+          "title": "Eigenheime 2 Eigenheime und Fläche",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/2-1-2",
@@ -71,7 +71,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Eigenheime 3",
+          "title": "Eigenheime 3 Verhältnis Eigenheime / Mietwohnungen",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/2-2-1",
@@ -87,7 +87,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Wohnheime 1",
+          "title": "Wohnheime 1 Anzahl der Wohnheime",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-1-1",
@@ -95,7 +95,7 @@
         },
         {
           "id": "3-1-2",
-          "title": "Wohnheime 2",
+          "title": "Wohnheime 2 Sind Pflegeheime Wohnheime?",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-1-2",
@@ -103,7 +103,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Wohnheime 3",
+          "title": "Wohnheime 3 Asylbewerberunterkünfte, Obdachlosenunterkünfte",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/3-2-1",
@@ -119,7 +119,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Mieten 1",
+          "title": "Mieten 1 Nettokaltmieten, Nebenkosten, Mikrozensus",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-1-1",
@@ -127,7 +127,7 @@
         },
         {
           "id": "4-2-1",
-          "title": "Mieten 2",
+          "title": "Mieten 2 Mieten nach Bevölkerung (Alter, Familien, Migrationshintergrund) Miktorzensus",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-2-1",
@@ -135,7 +135,7 @@
         },
         {
           "id": "4-2-2",
-          "title": "Mieten 3",
+          "title": "Mieten 3 Mietbelastungsquote Mikrozensus",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/4-2-2",
@@ -151,7 +151,7 @@
         
         {
           "id": "5-1-1",
-          "title": "Bauvorhaben 1",
+          "title": "Bauvorhaben 1 LSN Online Tabelle Z8090101 Baumaßnahmen und neue Gebäude, Nutzfläche, Kosten, Wohnungen insgesamt und Anzahl Räume und Nichtwohngebäude Kreisebene",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-1-1",
@@ -159,7 +159,7 @@
         },
         {
           "id": "5-2-1",
-          "title": "Bauvorhaben 2",
+          "title": "Bauvorhaben 2 Sinnvolle Aufteilung finden des unter 1 genannten",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-2-1",
@@ -167,7 +167,7 @@
         },
         {
           "id": "5-2-2",
-          "title": "Bauvorhaben 3",
+          "title": "Bauvorhaben 3 Sinnvolle Aufteilung finden des unter 1 genannten",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/5-2-2",
@@ -183,7 +183,7 @@
         
         {
           "id": "6-1-1",
-          "title": "Bauvorhaben 1",
+          "title": "Baufertigstellungen 1 LSN Online K8100116 Wohngebäude (1-2 Wohnungen, 3 und  mehr Wohnungen), Wohngebäude, Wohngebäuden nach Anzahl der Zimmer,  Nichtwohngebäude, Nutzfläche, Veranschlagte Kochen (???)",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-1-1",
@@ -191,7 +191,7 @@
         },
         {
           "id": "6-2-1",
-          "title": "Bauvorhaben 2",
+          "title": "Baufertigstellungen 2 Sinnvolle Aufteilung des unter 1 genannten",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-2-1",
@@ -199,7 +199,7 @@
         },
         {
           "id": "6-3-1",
-          "title": "Bauvorhaben 3",
+          "title": "Baufertigstellungen 3 Sinnvolle Aufteilung des unter 1 genannten",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/6-3-1",
@@ -215,7 +215,7 @@
         
         {
           "id": "7-1-1",
-          "title": "Baukosten 1",
+          "title": "Baukosten 1 Baukosten aus Baugenehmigung und Baufetigstellung",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/7-1-1",
@@ -223,7 +223,7 @@
         },
         {
           "id": "7-1-2",
-          "title": "Baukosten 2",
+          "title": "Baukosten 2 Baukkosten Wohnungen nach Anzahl der Zimmer",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/7-1-2",
@@ -247,7 +247,7 @@
         
         {
           "id": "8-1-1",
-          "title": "Grundstücke 1",
+          "title": "Grundstücke 1  LSN Online Tabelle K9280111 Fälle, Flächen, Preise, baureifes Baulans, Rohbauland, Sonstiges, Insgesamt, Kreisebene, Zeitreihe, Kaufsumme, durchscnittliche Kaufwerte/qm",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/8-1-1",
@@ -279,7 +279,7 @@
         
         {
           "id": "9-1-1",
-          "title": "Steuern und Abgaben 1",
+          "title": "Steuern und Abgaben 1 Grunderwerbsteuer und Gewerbesteuersätze",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-1-1",
@@ -287,7 +287,7 @@
         },
         {
           "id": "9-1-2",
-          "title": "Steuern und Abgaben 2",
+          "title": "Steuern und Abgaben 2 Grundsteuer und Hebesätze",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/9-1-2",
@@ -311,7 +311,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Mietwohnungen 1",
+          "title": "Mietwohnungen 1 Größe der Wohnungen",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-1-1",
@@ -319,7 +319,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Mietwohnungen 2",
+          "title": "Mietwohnungen 2 Anzahl der Zimmer",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-2-1",
@@ -327,7 +327,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Miwtwohnungen 3",
+          "title": "Miwtwohnungen 3 Größe der Wohnung und Anzahl der Zimmer nach Familien, Singles, Migrationshintergrund",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/10-3-1",
