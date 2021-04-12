@@ -2,7 +2,7 @@
   {
     "goal": {
       "id": "1",
-      "title": "global_goals.1-title",
+      "title": "Gebäude in Niedersachsen",
       "indicators": [
         
         {
@@ -50,7 +50,7 @@
   {
     "goal": {
       "id": "2",
-      "title": "global_goals.2-title",
+      "title": "Eigenheime in Niedersachsen",
       "indicators": [
         
         {
@@ -82,7 +82,7 @@
   {
     "goal": {
       "id": "3",
-      "title": "global_goals.3-title",
+      "title": "Wohnheime und andere Unterkünfte in Niedersachsen",
       "indicators": [
         
         {
@@ -114,7 +114,7 @@
   {
     "goal": {
       "id": "4",
-      "title": "global_goals.4-title",
+      "title": "Mieten in Niedersachsen",
       "indicators": [
         
         {
@@ -146,7 +146,7 @@
   {
     "goal": {
       "id": "5",
-      "title": "global_goals.5-title",
+      "title": "Bauen in Niedersachsen",
       "indicators": [
         
         {
@@ -178,7 +178,7 @@
   {
     "goal": {
       "id": "6",
-      "title": "global_goals.6-title",
+      "title": "Baufertigstellungen in Niedersachsen",
       "indicators": [
         
         {
@@ -210,7 +210,7 @@
   {
     "goal": {
       "id": "7",
-      "title": "global_goals.7-title",
+      "title": "Was kosten das Eigenheim?",
       "indicators": [
         
         {
@@ -242,7 +242,7 @@
   {
     "goal": {
       "id": "8",
-      "title": "global_goals.8-title",
+      "title": "Grunstückspreise und Preisentwicklung in Niedersachsen",
       "indicators": [
         
         {
@@ -274,7 +274,7 @@
   {
     "goal": {
       "id": "9",
-      "title": "global_goals.9-title",
+      "title": "Grunderwerbsteuer in Niedersachsen",
       "indicators": [
         
         {
@@ -306,7 +306,7 @@
   {
     "goal": {
       "id": "10",
-      "title": "global_goals.10-title",
+      "title": "Mietwohnungen in Niedersachsen",
       "indicators": [
         
         {
@@ -338,7 +338,7 @@
   {
     "goal": {
       "id": "11",
-      "title": "global_goals.11-title",
+      "title": "Geflüchtete und geduldete Personen, Menschen mit einer Niederlassungserlaubnis oder Verbot der Abschiebung. Menschen in Niedersachsen nach Aufenthalstiteln",
       "indicators": [
         
         {
