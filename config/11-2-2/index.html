@@ -103,7 +103,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Open SDG indicator configuration: 9.2.1 - Wohungskompass Niedersachsen</title>
+    <title>Open SDG indicator configuration: 11.2.2 - Wohungskompass Niedersachsen</title>
 
 
 
@@ -237,7 +237,7 @@ var translations = {
 
 
 <div id="main-content" class="container" role="main">
-  <div class="col-md-12"><h1>Open SDG indicator configuration: 9.2.1</h1></div>
+  <div class="col-md-12"><h1>Open SDG indicator configuration: 11.2.2</h1></div>
   <div class="config-widgets col-md-12">
     <div class="col-md-6" id="search_holder">
       <label for="config-search">Filter settings</label>
@@ -432,9 +432,31 @@ var translations = {
       }
     }
 
-    // Set values according to this site's configuration.propertyEditorAccessibilityFixes(editor.getEditor('root.composite_breakdown_label'));propertyEditorAccessibilityFixes(editor.getEditor('root.computation_units'));propertyEditorAccessibilityFixes(editor.getEditor('root.copyright'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_footnote'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_non_statistical'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_class'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_heading'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_text'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_show_map'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_start_values'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_footer'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_html'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_tab_title'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_title'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_url'));propertyEditorAccessibilityFixes(editor.getEditor('root.expected_disaggregations'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_annotations'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_limits'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_stacked_disaggregation'));
+    // Set values according to this site's configuration.propertyEditorAccessibilityFixes(editor.getEditor('root.composite_breakdown_label'));propertyEditorAccessibilityFixes(editor.getEditor('root.computation_units'));propertyEditorAccessibilityFixes(editor.getEditor('root.copyright'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_footnote'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_non_statistical'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_class'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_heading'));propertyEditorAccessibilityFixes(editor.getEditor('root.data_notice_text'));
       try {
-        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.9-2-1-title");
+        var currentValue = normalizeCurrentValue('data_show_map', true);
+        var propertyEditor = editor.getEditor('root.data_show_map');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: data_show_map');
+      }
+    propertyEditorAccessibilityFixes(editor.getEditor('root.data_show_map'));
+      try {
+        var currentValue = normalizeCurrentValue('data_start_values', [{"field":"Gebietseinheit","value":"Niedersachsen"}]);
+        var propertyEditor = editor.getEditor('root.data_start_values');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: data_start_values');
+      }
+    propertyEditorAccessibilityFixes(editor.getEditor('root.data_start_values'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_footer'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_html'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_tab_title'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_title'));propertyEditorAccessibilityFixes(editor.getEditor('root.embedded_feature_url'));propertyEditorAccessibilityFixes(editor.getEditor('root.expected_disaggregations'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_annotations'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_limits'));propertyEditorAccessibilityFixes(editor.getEditor('root.graph_stacked_disaggregation'));
+      try {
+        var currentValue = normalizeCurrentValue('graph_title', "global_indicators.11-2-2-title");
         var propertyEditor = editor.getEditor('root.graph_title');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -456,7 +478,7 @@ var translations = {
       }
     propertyEditorAccessibilityFixes(editor.getEditor('root.graph_type'));
       try {
-        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.9-2-1-title");
+        var currentValue = normalizeCurrentValue('indicator_name', "global_indicators.11-2-2-title");
         var propertyEditor = editor.getEditor('root.indicator_name');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -467,7 +489,7 @@ var translations = {
       }
     propertyEditorAccessibilityFixes(editor.getEditor('root.indicator_name'));
       try {
-        var currentValue = normalizeCurrentValue('indicator_number', "9.2.1");
+        var currentValue = normalizeCurrentValue('indicator_number', "11.2.2");
         var propertyEditor = editor.getEditor('root.indicator_number');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -489,7 +511,7 @@ var translations = {
       }
     propertyEditorAccessibilityFixes(editor.getEditor('root.page_content'));propertyEditorAccessibilityFixes(editor.getEditor('root.permalink'));propertyEditorAccessibilityFixes(editor.getEditor('root.precision'));
       try {
-        var currentValue = normalizeCurrentValue('reporting_status', "notstarted");
+        var currentValue = normalizeCurrentValue('reporting_status', "complete");
         var propertyEditor = editor.getEditor('root.reporting_status');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -521,7 +543,7 @@ var translations = {
       else {
         var config = editor.getValue();
         var yaml = jsyaml.safeDump(config);
-        SaveAsFile(yaml, '9-2-1.yml', 'text/plain;charset=utf-8');
+        SaveAsFile(yaml, '11-2-2.yml', 'text/plain;charset=utf-8');
       }
     });
 

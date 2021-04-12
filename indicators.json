@@ -351,11 +351,19 @@
         },
         {
           "id": "11-2-1",
-          "title": "global_indicators.11-2-1-title",
+          "title": "Geflüchtete und geduldete Personen insgesamt",
           "description": "",
           "keywords": "",
           "href": "/WK_Site/11-2-1",
           "status": "notstarted"
+        },
+        {
+          "id": "11-2-2",
+          "title": "Asylberechtigte und GfK-Flüchtlinge",
+          "description": "",
+          "keywords": "",
+          "href": "/WK_Site/11-2-2",
+          "status": "complete"
         },
         {
           "id": "11-3-1",
