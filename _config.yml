@@ -105,8 +105,8 @@ footer_menu:
 #  - path: https://twitter.com/MyTwitterAccount
 #    translation_key: general.twitter
 #  Impressum
-#   - path: /imprint
-#     translation_key: menu.imprint
+- path: /imprint
+translation_key: menu.imprint
 #  - path: https://facebook.com/MyFacebookAccount
 #    translation_key: general.facebook
   - path: /about/cookies-and-privacy/
