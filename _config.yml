@@ -104,7 +104,7 @@ footer_menu:
     translation_key: menu.contact_us
 #  - path: https://twitter.com/MyTwitterAccount
 #    translation_key: general.twitter
-  - path: /imprint
+  - path: /imprint/
      translation_key: menu.imprint
 #  - path: https://facebook.com/MyFacebookAccount
 #    translation_key: general.facebook
