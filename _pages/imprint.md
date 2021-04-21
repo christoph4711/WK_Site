@@ -7,7 +7,7 @@ layout: page
 <b>Landesamt für Statistik Niedersachsen</b>
 <br>
 <br>
-<b>Herausgeber Landesamt für Statistik Niedersachsen,
+<b>Herausgeber Landesamt für Statistik Niedersachsen,<br>
 vertreten durch die Präsidentin Simone Lehmann</b>
 <br>
 <br>
@@ -60,7 +60,7 @@ Die Verpflichtungen zur Entfernung oder Sperrung von Inhalten oder Links nach de
 <br>
 <br>
 <b>Datenschutzerklärung</b><br>
-Das Landesamt für Statistik Niedersachsen nimmt den Schutz Ihrer Privat- und Persönlichkeitssphäre ernst und beachtet die datenschutzrechtlichen Bestimmungen.
+Das Landesamt für Statistik Niedersachsen nimmt den Schutz Ihrer Privat- und Persönlichkeitssphäre ernst und beachtet die [datenschutzrechtlichen Bestimmungen](https://www.statistik.niedersachsen.de/startseite/uber_uns/datenschutz/datenschutzerklaerung-164757.html).
 <br>
 
 <b>Statistische Geheimhaltung</b><br>
