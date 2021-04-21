@@ -36,12 +36,12 @@ Die behördliche Datenschutzbeauftragte des Landesamts für Statistik Niedersach
 
 <b>Technischer Betrieb:</b><br>
 IT.Niedersachsen
-<br>
+<br><br>
 Dieses Impressum gilt auch für das folgende Twitter-Profil:
 [https://twitter.com/Statistik_NDS](https://twitter.com/Statistik_NDS)
 <br>
 
-<b>Haftungsausschluss</b>
+<b>Haftungsausschluss</b><br>
 Die Inhalte dieser Webseite werden mit größtmöglicher Sorgfalt recherchiert und implementiert. Dennoch ist das Auftreten von Fehlern nicht völlig auszuschließen. Eine Garantie für die Vollständigkeit, Richtigkeit und letzte Aktualität kann daher nicht übernommen werden. Hinweise und Korrekturen senden Sie uns bitte über unser Kontaktformular oder wenden Sie sich an die Ansprechpartnerinnen und -partner im Landesamt für Statistik Niedersachsen (siehe oben).
 <br>
 Eine Haftung für die Richtigkeit, Vollständigkeit und Aktualität dieser Webseiten kann trotz sorgfältiger Prüfung nicht übernommen werden. Das Landesamt für Statistik Niedersachsen übernimmt insbesondere keinerlei Haftung für eventuelle Schäden oder Konsequenzen, die durch die direkte oder indirekte Nutzung der angebotenen Inhalte entstehen.
@@ -57,20 +57,20 @@ Die Verpflichtungen zur Entfernung oder Sperrung von Inhalten oder Links nach de
 Das Landesamt für Statistik Niedersachsen nimmt den Schutz Ihrer Privat- und Persönlichkeitssphäre ernst und beachtet die datenschutzrechtlichen Bestimmungen.
 <br>
 
-<b>Statistische Geheimhaltung</b>
+<b>Statistische Geheimhaltung</b><br>
 Die Statistischen Ämter des Bundes und der Länder haben nach dem Bundesstatistikgesetz (BStatG) die Aufgabe, Daten zu erheben, aufzubereiten und zu veröffentlichen. Die Erhebungen/Bundes- und Landesstatistiken werden in einzelnen fachstatistischen Rechtsvorschriften geregelt. Für die Auskunftgebenden besteht in der Regel Auskunftspflicht. Die amtliche Statistik garantiert die Geheimhaltung der erhobenen Einzelangaben.
 <br>
 
-<b>Urheber- und Kennzeichnungspflicht</b>
+<b>Urheber- und Kennzeichnungspflicht</b><br>
 Das Landesamt für Statistik Niedersachsen ist darum bemüht, in allen Publikationen die Urheberrechte der verwendeten Bilder und Texte zu beachten. Aus diesem Grund werden insbesondere selbsterstellte Texte, Bilder und Grafiken genutzt oder es wird auf lizenzfreie Produkte zurückgegriffen.
 <br>
 
-<b>Copyright allgemein</b>
+<b>Copyright allgemein</b><br>
 Für die Standard-Veröffentlichungen des Landesamtes für Statistik Niedersachsen in gedruckter und elektronischer Form sowie für die Inhalte auf unserer Webseite www.statistik.niedersachsen.de einschließlich Grafiken sowie der zum Download bereitgestellten Produkte gilt folgendes Copyright, soweit bei dem jeweiligen Produkt/Internetseite keine ergänzenden oder anderslautenden Angaben ausgewiesen sind und die Inhalte keinem fremden Copyright unterliegen:
 <br>
 © Landesamt für Statistik Niedersachsen, Hannover 2020
 Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellennachweis gestattet.
 <br>
 
-<b>Allgemeine Geschäftsbedingungen (AGB)</b>
+<b>Allgemeine Geschäftsbedingungen (AGB)</b><br>
 Es gelten die Allgemeinen Geschäftsbedingungen des Landesamtes für Statistik Niedersachsen für die Vertriebsabwicklung im Verkauf von gedruckten Publikationen sowie für die auf Datenträgern beziehungsweise für die im PDF-Format angebotenen Publikationen.
