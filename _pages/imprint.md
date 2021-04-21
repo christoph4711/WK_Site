@@ -4,7 +4,6 @@ permalink: /imprint/
 layout: page
 ---
 
-<b>Impressum</b>
 <b>Landesamt für Statistik Niedersachsen</b>
 <br>
 <br>
