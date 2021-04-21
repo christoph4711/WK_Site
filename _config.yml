@@ -100,7 +100,7 @@ menu:
     translation_key: menu.updates
 
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: mailto:christoph@biester.info
     translation_key: menu.contact_us
 #  - path: https://twitter.com/MyTwitterAccount
 #    translation_key: general.twitter
